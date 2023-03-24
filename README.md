@@ -15,9 +15,10 @@ This application allows you to create your own custom messageboxes. You can choo
 
 That's it! Now you have a custom system message on your screen.
 
+## Important
+
+There are a few .ico files that must not be changed, removed or replaced. The application will not work without them.
+
 ## How to contribute
 
-1. Clone the repository
-2. Give it any edits you want to make
-3. Create a pull request
-4. Submit your pull request with your edits to the repository
+Simply fork this repository, then clone your forked version, give it any edits and submit a pull request to this repository.
