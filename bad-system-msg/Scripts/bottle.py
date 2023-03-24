@@ -1,4 +1,4 @@
-#!D:\bad-system-messages\bad-system-msg\Scripts\python.exe
+#!d:\bad-system-messages\bad-system-msg\scripts\python.exe
 # -*- coding: utf-8 -*-
 """
 Bottle is a fast and simple micro-framework for small web applications. It
